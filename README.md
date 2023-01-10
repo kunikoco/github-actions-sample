@@ -1,3 +1,5 @@
+[![Continuous Integration](https://github.com/kunikoco/github-actions-sample/actions/workflows/ci.yml/badge.svg)](https://github.com/kunikoco/github-actions-sample/actions/workflows/ci.yml)
+
 # github-actions-sample
 
 ## References
